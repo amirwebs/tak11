@@ -27,7 +27,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.5",
     "siteFonts": [],
-    "uniqCompNum": 26,
+    "uniqCompNum": 27,
     "versionPublish": "4.10.5",
     "screenshot": "screenshot.png"
   },
@@ -57,7 +57,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">سفارش انلاین</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ابمیوه تک</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">محصولات</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">اب میوه</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ایس پک</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">بستنی&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">کیک&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">شیک&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">پرداخت از طریق سایت و اپ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">انتقادات</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">سوشال مدیا</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">ادرس ما</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\"><span class=\"mobi-mbri mobi-mbri-download mbr-iconfont mbr-iconfont-btn\"></span>اندروید</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\"><span class=\"mbrib-save mbr-iconfont mbr-iconfont-btn\"></span>ios</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">سفارش انلاین</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ابمیوه تک</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">محصولات</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">اب میوه</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ایس پک</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">بستنی&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">کیک&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">شیک&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">پرداخت از طریق سایت و اپ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html#form1-c\">انتقادات</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html#social-buttons4-8\">سوشال مدیا</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html#contacts2-f\">ادرس ما</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\"><span class=\"mobi-mbri mobi-mbri-download mbr-iconfont mbr-iconfont-btn\"></span>اندروید</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\"><span class=\"mbrib-save mbr-iconfont mbr-iconfont-btn\"></span>ios</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -171,7 +171,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2000x1500.jpeg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20190723-wa0015-1032x581.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -183,9 +183,9 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal;\"><i>100% orginal food\n</i></span>",
-          "text": "اب میوه تک درسال 1392 شروع به فعالیت کرد افتخار میکنیم که همیشه محصولات اورجینال و با کیفیت داشته و داریم&nbsp;<br>از حمایت شما سپاس گذاریم\n<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">پرداخت انلاین</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">محصولات ما  </a> ",
+          "title": "<i>100% orginal food\n</i>",
+          "text": "<b style=\"font-style: normal;\">اب میوه تک درسال 1392 شروع به فعالیت کرد افتخار میکنیم که همیشه محصولات اورجینال و با کیفیت داشته و داریم&nbsp;<br>از حمایت شما سپاس گذاریم\n</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">پرداخت انلاین</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">محصولات ما  </a> ",
           "_tags": [
             "Theme"
           ],
@@ -208,7 +208,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/landscape3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#2e2e2e",
@@ -232,7 +232,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/landscape3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -299,8 +299,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/bike.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bike-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20190226-180849-2000x1500.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190226-180849-2000x1500-800x601.jpeg",
                 "alt": "",
                 "title": "",
                 "caption": "ایس پک",
@@ -311,8 +311,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/code-man.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/code-man-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "اب میوه"
@@ -322,10 +322,10 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/coworkers.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coworkers-small.jpg",
-                "alt": "",
-                "title": "",
+                "image": "@PROJECT_PATH@/assets/images/img-20190723-wa0016-1032x581.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190723-wa0016-1032x581-800x450.jpg",
+                "alt": "بستنی ",
+                "title": "بستنی ",
                 "caption": "بستنی&nbsp;"
               },
               {
@@ -333,8 +333,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/desktop.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/desktop-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "کیک"
@@ -377,8 +377,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/working-area.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/working-area-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20190723-wa0016-800x450.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190723-wa0016-800x450-795x168.jpeg",
                 "alt": "",
                 "title": "",
                 "caption": "ذرت"
